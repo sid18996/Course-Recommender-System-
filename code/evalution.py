@@ -1,7 +1,6 @@
 import os
 import openpyxl
 
-
 #print("Collaborative Filtering Item-Based Algorithm for Grade Prediction")
 wb= openpyxl.load_workbook('data/Data_1.xlsx')
 
